@@ -18,10 +18,10 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "",
+          description: "My CV, available as both PDF and as this webpage. Simply click the pdf icon to download it.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/assets/pdf/Shanmathi-Gnanabalan-CV.pdf";
           },
         },{id: "projects-campd-optimisation-usinf-gproms",
           title: 'CAMPD Optimisation usinf gPROMS',
