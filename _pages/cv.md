@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/Shanmathi-Gnanabalan.pdf
+permalink: /assets/pdf/Shanmathi-Gnanabalan-CV.pdf
 title: CV
 nav: true
 nav_order: 5
