@@ -2,7 +2,7 @@
 layout: page
 title: NLL Accurate Showers in Herwig
 img: assets/img/lhc.jpg
-importance: 1
+importance: 2
 permalink: /projects/nll-parton-shower-herwig/
 ---
 
