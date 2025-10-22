@@ -23,11 +23,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/assets/pdf/Shanmathi-Gnanabalan-CV.pdf";
           },
-        },{id: "projects-parton-showers-on-gpus-with-gaps",
-          title: 'Parton Showers on GPUs with GAPS',
+        },{id: "projects-campd-optimisation-usinf-gproms",
+          title: 'CAMPD Optimisation usinf gPROMS',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/gpu-parton-shower-gaps/";
+              window.location.href = "/projects/campd-gproms/";
             },},{id: "projects-nll-accurate-showers-in-herwig",
           title: 'NLL Accurate Showers in Herwig',
           description: "",
