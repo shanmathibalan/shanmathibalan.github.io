@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/Shanmathi-Gnanabalan.pdf";
+            window.location.href = "/assets/pdf/Shanmathi-Gnanabalan-CV.pdf";
           },
         },{id: "projects-parton-showers-on-gpus-with-gaps",
           title: 'Parton Showers on GPUs with GAPS',
