@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/Shanmathi-Gnanabalan-CV.pdf";
+            window.location.href = "/cv/";
           },
         },{id: "projects-campd-optimisation-usinf-gproms",
           title: 'CAMPD Optimisation usinf gPROMS',
