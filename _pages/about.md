@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Particle Physics | Monte Carlo Simulations | GPUs
+subtitle: 
 
 profile:
   align: right
