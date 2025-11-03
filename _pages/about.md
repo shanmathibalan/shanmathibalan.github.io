@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! Hi! Master’s student in Environmental & Energy Engineering with a background in Physics, experienced in
+Hi! I am a Master’s student in Environmental & Energy Engineering with a background in Physics, experienced in
 data analysis roles. Skilled at translating analytical findings into practical sustainability solutions. Passionate
 about tackling climate change and driving progress towards Net Zero.
 
