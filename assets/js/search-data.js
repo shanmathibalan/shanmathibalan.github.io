@@ -28,11 +28,6 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/campd-gproms/";
-            },},{id: "projects-nll-accurate-showers-in-herwig",
-          title: 'NLL Accurate Showers in Herwig',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/nll-parton-shower-herwig/";
             },},{
         id: 'social-email',
         title: 'email',
