@@ -18,10 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a student at the University of Manchester, doing a PhD in Particle Physics.
+Hi! Hi! Master’s student in Environmental & Energy Engineering with a background in Physics, experienced in
+data analysis roles. Skilled at translating analytical findings into practical sustainability solutions. Passionate
+about tackling climate change and driving progress towards Net Zero.
 
-My PhD involves combining Monte Carlo Methods and Object-Oriented Programming to simulate particle collisions at the Large Hadron Collider at CERN. I work on implementing advanced physics models in the [Herwig](https://herwig.hepforge.org/) collider simulation programme, which has been in use for over 40 years (in many incarnations).
-
-I also work on hardware-acceleration. My supervisor and I have developed algorithms to parallelise simulations and released a programme for GPU-parallelised simulation called [GAPS](https://gitlab.com/siddharthsule/gaps), offering the speed of computer clusters on laptops and PCs.
-
-On this page, you can find my publications and teaching resources. Links to my email, repositories, and blogs are below.
